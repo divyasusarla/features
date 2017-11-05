@@ -1,1 +1,4 @@
+env/
+GlobalLandTemperaturesByCity.csv
+Food_Inspections.csv
 .DS_Store
